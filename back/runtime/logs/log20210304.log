@@ -1,0 +1,5 @@
+[INFO][models.go:47]2021/03/04 19:59:07 [数据库连接失败 Error 1045: Access denied for user 'root'@'localhost' (using password: YES)]
+[INFO][models.go:47]2021/03/04 20:54:19 [数据库连接失败 Error 1045: Access denied for user 'root'@'localhost' (using password: YES)]
+[INFO][models.go:47]2021/03/04 22:03:00 [数据库连接失败 Error 1045: Access denied for user 'root'@'localhost' (using password: YES)]
+[INFO][models.go:47]2021/03/04 22:52:49 [数据库连接失败 Error 1049: Unknown database 'hn_integral']
+[INFO][models.go:47]2021/03/04 22:53:04 [数据库连接失败 Error 1049: Unknown database 'hn_integral']

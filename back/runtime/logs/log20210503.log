@@ -1,0 +1,4 @@
+[INFO][auth.go:44]2021/05/03 21:19:10 [Username.Required. Username Can not be empty]
+[INFO][auth.go:44]2021/05/03 21:19:10 [Password.Required. Password Can not be empty]
+[INFO][auth.go:44]2021/05/03 21:20:02 [Username.Required. Username Can not be empty]
+[INFO][auth.go:44]2021/05/03 21:20:02 [Password.Required. Password Can not be empty]
